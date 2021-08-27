@@ -1,10 +1,9 @@
-# 🚀Repositorio de Introducción al Scraping
+# 🚀 Repositorio de Introducción al Scraping
 
 Bienvenido al repositorio de esta Code Live donde podrás tener acceso a los recursos base antes de iniciar el Code Live y posterior al mismo tendrás los archivos con el código escrito.
 
 Puedes acceder al [Code Live](https://youtu.be/WNA0LJG3eq4) siempre que quieras.
 
-________
 
 ## 🧠 ¿Necesito Conocimientos Previos?
 Necesitarás tener nociones en los siguiente para poder tomar este Code Live con éxito.
@@ -13,8 +12,6 @@ Necesitarás tener nociones en los siguiente para poder tomar este Code Live con
 2. Bases de CSS.
 3. Bases de protocolos HTTP.
 4. Manejo en la shell (Windows o Linux).
-
-________
 
 ## 👀 Requisitos previos
 Debes tener los siguientes elementos en tu equipo para poder proseguir con el Code Live.
@@ -25,7 +22,6 @@ Debes tener los siguientes elementos en tu equipo para poder proseguir con el Co
 ### 🎈 Opcional
 1. Tener Conda Instalado
 
-______
 
 ## 🐱‍🏍 Inicia este repositorio
 
